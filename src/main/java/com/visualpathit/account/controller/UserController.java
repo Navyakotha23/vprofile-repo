@@ -67,5 +67,7 @@ public class UserController {
     @RequestMapping(value = { "/index"} , method = RequestMethod.GET)
     public final String indexHome(final Model model) {
         return "index_home";
+        
+        abc
     }
 }
