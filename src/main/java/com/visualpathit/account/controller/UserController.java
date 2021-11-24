@@ -68,6 +68,7 @@ public class UserController {
     public final String indexHome(final Model model) {
         return "index_home";
         
-        abc
+        
     }
 }
+***
